@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "ee0b",
+      "role": "admin",
+      "email": "abc@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "e136",
+      "email": "def@gmail.com",
+      "password": "4321",
+      "role": "user"
+    }
+  ],
+  "books": [
+    {
+      "id": "d988",
+      "title": "test book",
+      "sectionsArray": "sections"
+    },
+    {
+      "id": "7048",
+      "title": "title 2",
+      "sectionsArray": "sections 345"
+    },
+    {
+      "id": "d00b",
+      "title": "title 2",
+      "sectionsArray": "sections 345"
+    },
+    {
+      "id": "972c",
+      "title": "new book",
+      "sectionsArray": "section 3"
+    },
+    {
+      "id": "2b84",
+      "title": "add new book",
+      "sectionsArray": "section 45"
+    }
+  ]
+}
